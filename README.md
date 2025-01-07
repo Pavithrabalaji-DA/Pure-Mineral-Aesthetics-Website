@@ -1,6 +1,5 @@
 # Pure Mineral Aesthetics Website
 
-### By Moses Atia
 
 ## Description
 
